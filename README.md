@@ -1,3 +1,4 @@
+<code>Zyryanov Ivan Valerievich</code>
 <code>👷 Speciality: Software engineer / Backend / Frontend</code><br>
 <code>💡 [Skills](SKILLS.md)</code>
 <code>🧻 [Projects](PROJECTS.md)</code>
